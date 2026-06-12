@@ -3,14 +3,14 @@
 This project is a simple calculator application developed to perform basic arithmetic operations efficiently such as addition, subtraction, multiplication, and division.In addition,it also does squre-root and percentage operation.It successfully calculate the decimal and negative numbers also.
 
 ## Features:
-1.Addition of two or more numbers
-2.Subtraction operations
-3.Multiplication calculations
-4.Division calculations
-5.User-friendly interface
-6.Input validation for accurate calculations
-7.Fast and responsive performance
-8.Clear display of results
+1. Addition of two or more numbers
+2. Subtraction operations
+3. Multiplication calculations
+4. Division calculations
+5. User-friendly interface
+6. Input validation for accurate calculations
+7. Fast and responsive performance
+8. Clear display of results
 
 ## Working Peocedure
 - At first The user enters numerical values.
