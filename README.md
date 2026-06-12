@@ -27,4 +27,5 @@ This project is a simple calculator application developed to perform basic arith
 - Swing(For GUI framework)
 ## Screenshot
 <img width="468" height="698" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/fcffad2c-11dd-48bd-89ab-2b2d1057c476" />
+
 ### Author: Oyshikee Chakrabarty Sithee
